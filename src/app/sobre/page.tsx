@@ -112,10 +112,10 @@ export default function AboutPage() {
           >
             <h2 className="heading-2 mb-8">Filosofia de Trabalho</h2>
             <p className="body-text mb-8">
-              "Acredito que o design de interiores vai além da estética. É sobre
+              &ldquo;Acredito que o design de interiores vai além da estética. É sobre
               criar espaços que inspirem, confortem e reflitam a essência de
               quem os habita. Cada projeto é uma oportunidade de transformar não
-              apenas um ambiente, mas também a experiência de vida das pessoas."
+              apenas um ambiente, mas também a experiência de vida das pessoas.&rdquo;
             </p>
             <div className="text-lg text-gray-600 font-light italic">
               — Ana Carvalho
