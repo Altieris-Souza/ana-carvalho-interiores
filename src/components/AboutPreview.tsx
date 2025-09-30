@@ -17,14 +17,14 @@ export default function AboutPreview() {
             viewport={{ once: true }}
             className="relative"
           >
-            <div className="aspect-[4/5] relative">
-              <Image
-                src="https://picsum.photos/800/1000?random=ana"
-                alt="Ana Carvalho - Designer de Interiores"
-                fill
-                className="object-cover"
-              />
-            </div>
+                <div className="aspect-[4/5] relative">
+                  <Image
+                    src="/images/ana paula.png"
+                    alt="Ana Carvalho - Designer de Interiores"
+                    fill
+                    className="object-cover"
+                  />
+                </div>
             <div className="absolute -bottom-8 -right-8 w-32 h-32 bg-black opacity-10" />
           </motion.div>
 
